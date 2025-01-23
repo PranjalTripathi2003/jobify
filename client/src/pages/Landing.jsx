@@ -17,10 +17,11 @@ const Landing = () => {
             Job <span> Tracking</span> App
           </h1>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum, atque
-            tempora, deleniti recusandae ex impedit fuga corrupti laboriosam
-            sint facere dolore iure accusantium quam dolor nostrum quasi ut
-            beatae provident?
+            Jobify is a job-tracking application that helps you manage your
+            applications in one place. It allows you to create new listings,
+            update progress as you move through each stage, and visualize your
+            overall job search. By centralizing these details, it keeps you
+            organized, saves time, and makes your job hunt more efficient.
           </p>
           <Link to="/register" className="btn register-link">
             Register
