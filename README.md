@@ -49,7 +49,7 @@ Ensure you have the following installed:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd mern-jobify-v2
+   cd jobify
    ```
 3. Install dependencies for both client and server:
    ```bash
